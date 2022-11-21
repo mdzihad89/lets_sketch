@@ -6,8 +6,8 @@
 
 A simple Sketch app made with Flutter
 
-Try out the DEMO here
-[Link to Demo](https://lss/)
+***Try latest Lets Sketch webapp from below 👇***
+[Here](https://lss/)
 
 <br />
 
