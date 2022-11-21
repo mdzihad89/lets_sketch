@@ -10,7 +10,7 @@ A simple Sketch app made with Flutter
 
 ***Try latest Lets Sketch webapp from below 👇***
 
-[Here](https://lss/)
+[Here](https://lets-sketch.web.app/)
 
 
 
