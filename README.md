@@ -11,9 +11,9 @@ Try out the DEMO here
 
 <br />
 
-***Try latest Note app apk from below 👇***
+***Try latest Lets Sketch app apk from below 👇***
 
-[![Lets Sketch](https://img.shields.io/badge/NoteApp-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/mdzihad89/lets_sketch/releases/download/v1.0.0/LetsSketch.apk)
+[Here](https://github.com/mdzihad89/lets_sketch/releases/download/v1.0.0/LetsSketch.apk)
 
 
 ## UI Design 🎨
